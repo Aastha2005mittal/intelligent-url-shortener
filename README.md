@@ -1,2 +1,15 @@
-# intelligent-url-shortener
-A scalable URL shortener with analytics built using Node.js, focusing on clean architecture, O(1) performance, and system design principles.
+# Intelligent URL Shortener with Analytics
+
+A scalable URL shortening service that converts long URLs into short, shareable links and tracks analytics like click counts.
+
+## Features
+- Fast URL shortening using Base62 encoding
+- O(1) URL redirection
+- Click analytics
+- Clean layered architecture
+- RESTful APIs
+
+## Tech Stack
+- Node.js
+- Express.js
+- JavaScript
